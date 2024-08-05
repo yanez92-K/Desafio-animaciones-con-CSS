@@ -2,6 +2,6 @@
 
 ## Deploy 🚀
 
-_https://yanez92-k.github.io/Desafio-animaciones-en-CSS/_
+_https://yanez92-k.github.io/Desafio-animaciones-con-CSS/_
 
 Mira el link para conocer mi proyecto.
